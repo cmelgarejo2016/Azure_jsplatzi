@@ -1,0 +1,13 @@
+body {
+    background: #fafafa;
+    color: #125688;
+    font-family: Arial, Helvetica, sans-serif
+}
+
+#main-container {
+    margin: 30px auto;
+}
+
+.maxx {
+    max-width: 100%;
+}
