@@ -46,6 +46,6 @@ signup-box {
     font-size: .9em;
 }
 
-.signup-form .btn.btn-fb::hover {
+.signup-form .btn.btn-fb:hover {
     background-color: #2d6599;
 }
