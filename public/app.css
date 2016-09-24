@@ -23,10 +23,10 @@ signup-box {
     border: 1px solid #edeeee;
     border-radius: 3px;
     padding: 10px 0;
-    text-align: center;
+    text-align: right ;
 }
 
-.signup-box .platzigram {
+.signup-box .platzigram  {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 42px;
 }
